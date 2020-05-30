@@ -1,0 +1,9 @@
+# HTTrack Website Copier Cookie File
+# This file format is compatible with Netscape cookies
+.readthedocs.org	TRUE	/	FALSE	1999999999	__cfduid	dd45fc5ba4ef9813ac963c625a57389d71590824468
+assets.readthedocs.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+hosted.weblate.org	TRUE	/	FALSE	1999999999	sessionid	m4d351nbt2ofnbvtqtdvcmvoej7m2901
+hosted.weblate.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+.docs.godotengine.org	TRUE	/	FALSE	1999999999	__cfduid	d07d24c1ea3a254dcd9c08b5eccfef7f41590826014
+docs.godotengine.org	TRUE	/	FALSE	1999999999	SameSite	Lax
+
